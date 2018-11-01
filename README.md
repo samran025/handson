@@ -54,6 +54,11 @@ Host key: each host has atleast one host key. host key is used dureing key excha
    Local extensions:
 
       192 to 255 Local extensions   
+      
+      
+  The connection protocol [SSH-CONNECT] specifies a mechanism to
+   multiplex multiple streams (channels) of data over the confidential
+   and authenticated transpor
 
 
 
